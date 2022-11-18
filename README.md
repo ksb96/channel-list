@@ -1,2 +1,4 @@
-# channel-list
-list of youtube channels list for upgrading skills(for free)
+**Channel List**
+
+- This repo consists of list of youtube channels for upgrading skills(for free)
+- Mainly channel list consits of tech related.
